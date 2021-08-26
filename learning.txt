@@ -1,0 +1,1 @@
+As much as it is a pain to learn how to use git, and i lost most of my sanity, and heard the screams of a hundred thousand dead souls, programming is fun, this is a replica of google search page without many functions, i'll try to make the search engine replica later.
